@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](https://cecile-macaire.github.io/files/Macaire_Cecile_CV.pdf)
+[CV](https://cecile-macaire.github.io/files/Macaire_Cecile_CV.pdf)
