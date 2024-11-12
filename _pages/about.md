@@ -15,4 +15,5 @@ I hold a Engineering Master’s Degree in Economics and Statistics from [ENSAE](
 
 
 My fields of interest are public, labor economics, and economics of crime. 
+
 You can reach me at cecile.macaire@yale.edu.
