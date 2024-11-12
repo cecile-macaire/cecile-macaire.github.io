@@ -21,7 +21,7 @@ repository               : "cecile-macaire/cecile-macaire.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.website.png"
+  avatar           : "profileweb.png"
   name             : "Cecile Macaire"
   pronouns         : # example: "she/her"  
   bio              : "Economics Pre-doctoral Fellow at Yale University"
