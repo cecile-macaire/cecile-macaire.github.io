@@ -12,7 +12,7 @@ title                    : "Cecile Macaire"
 title_separator          : "-"
 name                     : &name "Cecile Macaire"
 description              : &description "personal description"
-url                      : https://annefogarty.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cecile-macaire.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cecile-macaire/cecile-macaire.github.io"
 
