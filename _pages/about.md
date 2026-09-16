@@ -6,14 +6,11 @@ redirect_from:
   - /about.html
 ---
 
+Welcome! I am a second-year PhD student in Economics at [New York University](https://as.nyu.edu/departments/econ.html). 
 
+Prior to starting my PhD, I was a Pre-doctoral Fellow at Yale University's [Tobin Center](https://tobin.yale.edu/). I hold an Engineering Master’s Degree in Economics and Statistics from [ENSAE](https://www.ensae.fr/en/education/ingenieur-ensae-program).
 
-Welcome! I am a Pre-doctoral Fellow at Yale University, [Tobin Center](https://tobin.yale.edu/). I will be starting the PhD in Economics at NYU in September 2025.
+My primary fields of interest include public economics and labor economics. 
 
+You can reach me at cm7163@nyu.edu or find me in graduate student office 622 (19 W. 4th Street).
 
-I hold an Engineering Master’s Degree in Economics and Statistics from [ENSAE](https://www.ensae.fr/en/education/ingenieur-ensae-program).
-
-
-My fields of interest are public, labor economics, and economics of crime. 
-
-You can reach me at cecile.macaire@yale.edu.
